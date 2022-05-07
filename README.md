@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan aka ItC</h1>
-<h3 align="center">A little full-stack developer from Russia</h3>
+<h3 align="center">A little developer from Russia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itc1205&label=Profile%20views&color=0e75b6&style=flat" alt="itc1205" /> </p>
 
