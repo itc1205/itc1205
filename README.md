@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itc1205&label=Profile%20views&color=0e75b6&style=flat" alt="itc1205" /> </p>
 
-- 🔭 I’m currently working on **VeryCoolBlog**
+- 🔭 I’m currently working on **[rogue_like]**(https://github.com/itc1205/rogue_like)
 
 - 🌱 I’m currently learning **Rust, C++**
 
