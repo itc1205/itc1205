@@ -21,7 +21,7 @@
             nickname: "ItC",
             favoriteAnimal: "Red Panda",
             age: 19,
-            activities: vec!["Games", "VC", "Code", "Learn"],
+            activities: vec!["Games", "VC", "Code", "Learn", "Music", "Tech"],
             languages: vec!["Russian/N", "English/B2-B3"],
             code: vec!["Python", "Rust", "C/C++", "GLSL", "Flutter"],
             currentChallenge: "[20.10.2023] Be a study tryhard for 100 days!"
