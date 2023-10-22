@@ -1,15 +1,40 @@
-<h1 align="center">Hi 👋, I'm Ivan aka ItC</h1>
-<h3 align="center">A little developer from Russia</h3>
+## Hello, i'm Ivan Aksenov!
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itc1205&label=Profile%20views&color=0e75b6&style=flat" alt="itc1205" /> </p>
+*Self-study software engineer, who loves to create art with code*
 
-- 🔭 I’m currently working on **actually nothing**
+### My personal block of code
 
-- 🌱 I’m currently learning **Rust, C++**
+```rust
+    #[derive(TellAboutYourself)]
+    struct Person<'a> {
+        nickname: &'a str,
+        favoriteAnimal: &'a str,
+        age: i8,
+        activities: Vec<&'a str>,
+        languages: Vec<&'a str>,
+        code: Vec<&'a str>,
+        currentChallenge: &'a str,
+    };
 
-- 📫 How to tg me [https://t.me/ItC1205](https://t.me/ItC1205)
+    fn main() {
+        let me = Person {
+            nickname: "ItC",
+            favoriteAnimal: "Red Panda",
+            age: 19,
+            activities: vec!["Games", "VC", "Code", "Learn"],
+            languages: vec!["Russian/N", "English/B2-B3"],
+            code: vec!["Python", "Rust", "C/C++", "GLSL", "Flutter"],
+            currentChallenge: "[20.10.2023] Be a study tryhard for 100 days!"
+        }
+        tell_about_yourself!(&me);
+    }
+```
 
-- 📫 How to reach me **ivan120536@gmail.com**
+### Education
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+* [2021-2022] *[Yandex.Lyceum](https://lyceum.yandex.ru/)*
+* [2022-2026] *[UlSU](https://ulsu.ru/ru/)* 
+
+
+### Jobs
+* Empty for now...
