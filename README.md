@@ -30,6 +30,15 @@
     }
 ```
 
+### Ways to contact with me
+
+* VK: https://vk.com/xnor_xnor_xnor
+* TG: https://t.me/itc1205
+* Email: 
+    * ivan120536@gmail.com - Personal
+* Discord: itc1205
+* Steam: https://steamcommunity.com/id/itscloudyoutside/
+
 ### Education
 * [2011-2022] *[Lyceum](https://liczej45ulyanovsk-r73.gosweb.gosuslugi.ru/) at [UlTSU](https://ulstu.ru/)*
 * [2021-2022] *[Yandex.Lyceum](https://lyceum.yandex.ru/)*
