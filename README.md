@@ -58,7 +58,7 @@ But i've tried to apply:
 
 ### Projects of interest
 
-* [Simbir-go](https://github.com/itc1205/volga-it), a project for [VolgaIT](https://volga-it.org/) olympiad - right now closed, because semi-finals is going
+* [Simbir-go](https://github.com/itc1205/simbir-go), a python-powered rental service backend for [VolgaIT](https://volga-it.org/) olympiad
 * [My try at engine/shaders development](https://github.com/itc1205/sandbox_game)
 * [ShootEmUp](https://github.com/itc1205/idk-gj-project), a game for [Pygame Community Easter Jam](https://itch.io/jam/pygame-community-easter-jam-2023) - [link](https://itc1205.itch.io/shotemup) for itch.io
 * [RoboHackaton](https://github.com/itc1205/RoboHackaton), a project for local hackaton at [UlSU](https://ulsu.ru/ru/)
