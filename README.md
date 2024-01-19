@@ -20,7 +20,7 @@
         let me = Person {
             nickname: "ItC",
             favoriteAnimal: "Red Panda",
-            age: 19,
+            age: 20,
             activities: vec!["Games", "VC", "Code", "Learn", "Music", "Tech"],
             languages: vec!["Russian/N", "English/B2-B3"],
             code: vec!["Python", "Rust", "C/C++", "GLSL", "Flutter"],
