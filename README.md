@@ -1,6 +1,6 @@
 ## Hello, i'm Ivan Aksenov!
 
-*Self-study software engineer, who loves to create art with code*
+*I am a self-study tryhard!*
 
 ### My personal block of code
 
@@ -12,7 +12,7 @@
         age: i8,
         activities: Vec<&'a str>,
         languages: Vec<&'a str>,
-        code: Vec<&'a str>,
+        development_areas: Vec<&'a str>,
         currentChallenge: &'a str,
     };
 
@@ -23,8 +23,8 @@
             age: 20,
             activities: vec!["Games", "VC", "Code", "Learn", "Music", "Tech"],
             languages: vec!["Russian/N", "English/B2-B3"],
-            code: vec!["Python", "Rust", "C/C++", "GLSL", "Flutter"],
-            currentChallenge: "[20.10.2023] Be a study tryhard for 100 days!"
+            development_areas: vec!["Games", "GUI's", "Backend", "A little bit of mobile apps", "Graphical programming"],
+            currentChallenge: "[26.02.2024] Git gud at coding!"
         }
         tell_about_yourself!(&me);
     }
@@ -32,29 +32,17 @@
 
 ### Ways to contact with me
 
-* VK: https://vk.com/xnor_xnor_xnor
 * TG: https://t.me/itc1205
 * Email: 
     * ivan120536@gmail.com - Personal
 * Discord: itc1205
-* Steam: https://steamcommunity.com/id/itscloudyoutside/
+
 
 ### Education
 * [2011-2022] *[Lyceum](https://liczej45ulyanovsk-r73.gosweb.gosuslugi.ru/) at [UlTSU](https://ulstu.ru/)*
 * [2021-2022] *[Yandex.Lyceum](https://lyceum.yandex.ru/)*
 * [2022-2026] *[UlSU](https://ulsu.ru/ru/)* 
 
-
-### Jobs
-Empty for now...
-
-But i've tried to apply:
-
-* **[SMIT](https://smit.studio/)** - *[Tech-task](https://github.com/itc1205/SMIT-tech-task)*
-* **[MediaSoft](https://mediasoft.team/)** 
-    - *[First tech-task](https://github.com/itc1205/mediasoft_test_task)* 
-    - *[Second tech-task](https://github.com/itc1205/mediasoft-part-2)* - (*poorly made*)
-    - *[Second tech-task, but improved]()* - I'll upload it soon
 
 ### Projects of interest
 
