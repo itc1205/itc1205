@@ -9,7 +9,7 @@
     struct Person<'a> {
         nickname: &'a str,
         favoriteAnimal: &'a str,
-        age: i8,
+        age: u8,
         activities: Vec<&'a str>,
         languages: Vec<&'a str>,
         development_areas: Vec<&'a str>,
