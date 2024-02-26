@@ -8,7 +8,6 @@
     #[derive(TellAboutYourself)]
     struct Person<'a> {
         nickname: &'a str,
-        favoriteAnimal: &'a str,
         age: u8,
         activities: Vec<&'a str>,
         languages: Vec<&'a str>,
@@ -19,7 +18,6 @@
     fn main() {
         let me = Person {
             nickname: "ItC",
-            favoriteAnimal: "Red Panda",
             age: 20,
             activities: vec!["Games", "VC", "Code", "Learn", "Music", "Tech"],
             languages: vec!["Russian/N", "English/B2-B3"],
